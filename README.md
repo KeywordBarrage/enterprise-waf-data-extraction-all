@@ -36,7 +36,7 @@ We partner with e-commerce analytics platforms, hedge funds, brand protection ag
 3. **Automated Delivery:** Receive continuously updated SQLite database packages directly to your pipeline.
 
 * **Website:** [https://keywordbarrage.com](https://keywordbarrage.com)
-* **Telegram Channel:** [@keywordbarrage](https://t.me/keywordbarrage)
+* **Telegram Channel:** [@keywordbarrage](https://t.me/s/keywordbarrage)
 * **Direct Contact:** [info@keywordbarrage.com](mailto:info@keywordbarrage.com)
 
 ---
