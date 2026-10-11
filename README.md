@@ -32,7 +32,7 @@ Our internal extraction pipeline maintains high success rates across targets uti
 We partner with e-commerce analytics platforms, hedge funds, brand protection agencies, and marketplace intelligence firms.
 
 1. **Target Evaluation:** Submit your target URL, domain list, or marketplace scope.
-2. **SLA & Scope Agreement:** Custom retainer contracts starting at **$2,000 / month** based on data depth and update frequency.
+2. **SLA & Scope Agreement:** Custom retainer contracts starting at **2,000 USDT / month** based on data depth and update frequency.
 3. **Automated Delivery:** Receive continuously updated SQLite database packages directly to your pipeline.
 
 ### 📦 Turnkey 4-in-1 Data Delivery & Standalone Offline Viewers
