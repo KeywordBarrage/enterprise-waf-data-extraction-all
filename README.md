@@ -2,7 +2,6 @@
 
 > **COMPLIANCE & SERVICE NOTICE:** We DO NOT sell source code, executable binaries, API bypass keys, or proxy infrastructure. We provide fully managed **Data-as-a-Service (DaaS)** delivering enterprise-grade, zero-noise SQLite database feeds under strict SLA agreements.
 
----
 
 ## ⚡ Technical Architecture & Capabilities
 
