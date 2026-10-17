@@ -61,3 +61,6 @@
 - **Keywords:** Otomoto web scraping, Otomoto DataDome bypass, broken scraping pipeline fix, Otomoto post-update data feed, Otomoto tls fingerprint proof, Otomoto sqlite dump, enterprise data delivery
 - **Canonical:** https://www.keywordbarrage.com/scrapers/otomoto-scraper.html
 
+#akamai-bot-manager #datadome-bypass #cloudflare-turnstile #kasada-shape-security #ja4-fingerprint #tls-client-hello #http2-fingerprinting #managed-data-feed #storefront-graphql #salesforce-commerce-cloud #time-series-sku-tracking #sqlite-dataset-delivery
+
+#akamai-bot-manager #datadome-bypass #cloudflare-turnstile #kasada-shape-security #ja4-fingerprint #tls-client-hello #http2-fingerprinting #managed-data-feed #storefront-graphql #salesforce-commerce-cloud #time-series-sku-tracking #sqlite-dataset-delivery
